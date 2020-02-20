@@ -1,0 +1,19 @@
+{
+  "name": "www",
+  "version": "1.0.0",
+  "description": "website",
+  "main": "index.js",
+  "repository": "git@github.com:Trogons/www.git",
+  "author": "Daniel Ho <danielho54@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^9.2.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}

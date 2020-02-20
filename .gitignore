@@ -1,0 +1,12 @@
+# dependencies
+node_modules/
+
+# next.js
+.next
+
+# environment variables
+.env
+
+# DS_Store on mac
+**.DS_Store
+
