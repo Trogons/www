@@ -7,6 +7,9 @@ node_modules/
 # environment variables
 .env
 
+# logs
+*.log
+
 # DS_Store on mac
 **.DS_Store
 
