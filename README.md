@@ -13,4 +13,5 @@ This website allows any a cappella group to share their content and music online
 
 ## Deployment
 
-- Use heroku to deploy
+- Heroku is automatically deploying from `master` on new pushes
+- You can perform a manual deploy in Heroku or Heroki-cli
